@@ -1,5 +1,5 @@
 {
-  "name": "yolov8-seg-tfjs",
+  "name": "cell_yolov8-seg-tfjs",
   "description": "Object segmentation application right in your browser using YOLOv8 and Tensorflow.js",
   "version": "1.0.0",
   "scripts": {
