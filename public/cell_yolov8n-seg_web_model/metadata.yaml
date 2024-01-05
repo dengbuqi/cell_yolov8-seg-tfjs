@@ -1,0 +1,59 @@
+description: Ultralytics YOLOv8n-seg model trained on ./yolo_data_seg/data.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2024-01-05T13:46:42.312916'
+version: 8.0.160
+stride: 32
+task: segment
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: 早幼粒细胞 promyelocyte
+  1: 中性粒中幼细胞 myelocyte
+  2: 原粒细胞 myeloblast
+  3: 涂抹细胞
+  4: 淋巴细胞 lymphocyte
+  5: 单核细胞 monocyte
+  6: 嗜酸粒分叶细胞 eosinophilic segmented granulocyte
+  7: 中性粒杆状细胞 band/stab granulocyte
+  8: 嗜碱粒杆状细胞 basophilic band granulocyte
+  9: 晚幼红细胞 orthochromatic normoblast
+  10: 原巨核细胞 megakaryoblast
+  11: 中性粒晚幼细胞 metamyelocyte
+  12: 血小板 platelet
+  13: 幼巨核细胞 promegakaryocyte
+  14: 中幼红细胞 polychromatophilic normoblast
+  15: 分裂象
+  16: 早幼红细胞 basophilic normoblast
+  17: 中性粒分叶细胞 segmented  granulocyte
+  18: 嗜碱粒分叶细胞 basophilic segmented granulocyte
+  19: 吞噬细胞 phagocyte
+  20: 嗜酸粒中幼细胞 eosinophilic myelocyte
+  21: 嗜酸粒晚幼细胞 eosinophilic metamyelocyte
+  22: 嗜酸粒杆状细胞 eosinophilic band granulocyte
+  23: 嗜酸性早幼粒细胞
+  24: 幼单核细胞 promonocyte
+  25: 浆细胞 plasmacyte
+  26: 原红细胞 pronormoblast
+  27: 幼淋细胞 prolymphocyte
+  28: 颗粒型巨核细胞 granular megakaryocyte
+  29: 凋亡细胞
+  30: 原淋细胞 lymphocytoblast
+  31: 原浆细胞 plasmablast
+  32: 幼浆细胞 proplasmacyte
+  33: 产血小板巨核细胞 thrombocytogenous megakaryocyte
+  34: 嗜碱粒晚幼细胞 basophilic metamyelocyte
+  35: 原单核细胞 monoblast
+  36: 嗜碱粒中幼细胞 basophilic myelocyte
+  37: 其他细胞 others
+  38: 组织嗜碱细胞 tissue basophil
+  39: 网状细胞 reticulocyte
+  40: 早巨幼红细胞 early megaloblstic erythrocyte
+  41: 中巨幼红细胞 metaphase megaloblstic erythrocyte
+  42: 分类不明细胞 unclassified cell
+  43: 嗜碱性早幼粒细胞
+  44: 分类不明细胞 unclassified
+  45: 异型淋巴细胞
+  46: 中性粒细胞毒性变
