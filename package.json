@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hyuto/yolov8-seg-tfjs.git"
+    "url": "git+https://github.com/dengbuqi/cell_yolov8-seg-tfjs.git"
   },
   "keywords": [
     "object segmentation",
@@ -22,7 +22,7 @@
   "author": "Wahyu Setianto",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Hyuto/yolov8-seg-tfjs/issues"
+    "url": "https://github.com/dengbuqi/cell_yolov8-seg-tfjs/issues"
   },
   "dependencies": {
     "@tensorflow/tfjs": "^4.2.0",
