@@ -24,6 +24,7 @@
   "bugs": {
     "url": "https://github.com/dengbuqi/cell_yolov8-seg-tfjs/issues"
   },
+  "homepage": "https://github.com/dengbuqi/cell_yolov8-seg-tfjs#readme",
   "dependencies": {
     "@tensorflow/tfjs": "^4.2.0",
     "react": "^18.2.0",
